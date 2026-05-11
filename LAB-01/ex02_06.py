@@ -8,3 +8,4 @@ for row in range(rowNum):
     for col in range(colNum):
         multilist[row][col] = row * col
 print(multilist)
+
